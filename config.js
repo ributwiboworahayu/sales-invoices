@@ -1,0 +1,1 @@
+export const baseApiUrl = 'https://sales-invoices-api.dep/api/v1/'

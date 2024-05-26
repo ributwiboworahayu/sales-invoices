@@ -1,0 +1,25 @@
+{
+  "name": "sales-invoices",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "build:watch": "vite build --watch"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "bootstrap-icons": "^1.11.3",
+    "jquery": "^3.7.1",
+    "startbootstrap-simple-sidebar": "^6.0.6",
+    "vue": "^3.4.21",
+    "vue-cookies": "^1.8.4",
+    "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.8"
+  }
+}
